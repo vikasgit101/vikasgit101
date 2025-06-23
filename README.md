@@ -73,12 +73,21 @@ I believe in the power of clean data, clear visuals, and curiosity-led explorati
 
 ---
 
-### ✨ Featured Projects
+## ✨ Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [Loan Approval Prediction](https://github.com/yourusername/loan-approval-prediction) | Predict loan approvals using machine learning |
-| [Hotel Insight Dashboard](https://github.com/yourusername/hotel-insight-dashboard) | Power BI dashboard for hotel data analysis |
+| [HR Analytics Dashboard – Excel-Based Insight Tool](https://github.com/vikasgit101/-HR-Analytics-Dashboard-Excel-Based-Insight-Tool) | Excel dashboard for HR metrics like headcount, attrition, gender ratio, and age group insights |
+| [Time Series Forecasting of Monthly Gold Prices](https://github.com/vikasgit101/-Time-Series-Forecasting-of-Monthly-Gold-Prices) | ARIMA-based forecasting model to predict monthly trends in gold prices |
+| [Banking Client Insights & Relationship Analysis](https://github.com/vikasgit101/-Banking-Client-Insights-Relationship-Analysis) | Exploratory analysis of banking client data to understand relationships and behavior |
+| [Bike Buyers Analysis – Excel Dashboard](https://github.com/vikasgit101/-Bike-Buyers-Analysis-Project-Excel-Dashboard-Pivot-Table) | Excel dashboard to analyze customer buying patterns and segmentation for bike purchases |
+| [Walmart Sales Data Analysis – SQL + Python](https://github.com/vikasgit101/-Walmart-Sales-Data-Analysis-SQL-Python) | Sales performance breakdown using SQL queries and Python visualizations |
+| [Diwali Sales Data Analysis](https://github.com/vikasgit101/-Diwali-Sales-Data-Analysis-) | EDA project analyzing Diwali campaign sales data to identify high-value customers |
+| [Road Accident Data Analysis Dashboard](https://github.com/vikasgit101/-Road-Accident-Data-Analysis-Dashboard) | Data dashboard focusing on insights into road accidents using visuals and pivoting |
+| [Banl Loan Prediction](https://github.com/vikasgit101/Banl_Loan_Prediction) | ML model to predict loan approvals based on applicant details and financial history |
+| [Coffee Shop Sales Analysis Dashboard](https://github.com/vikasgit101/Coffee-Shop-Sales-Analysis-Dashboard) | Excel dashboard showcasing sales metrics for a chain of coffee shops |
+| [Hospitality Insights Dashboard](https://github.com/vikasgit101/-Hospitality-Insights-Dashboard) | Dashboard analyzing hotel/hospitality data to drive customer satisfaction and booking behavior |
+
 
 
 ---
