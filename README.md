@@ -1,107 +1,178 @@
-<h1 align="center">👋 Hey, I'm Vikas Kumar</h1>
-<h3 align="center">🚀 Data Analyst | SQL | Python | Power BI | Data Storyteller | Excel Expert | Business Intelligence Enthusiast</h3>
+<h1 align="center">Hey there 👋, I'm Vikas Kumar</h1>
+<h3 align="center">🚀 Aspiring Data Analyst | SQL & Power BI Enthusiast | Passionate About Turning Raw Data into Business Insights</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR3cXA4MWVvMWZ0OWJ4MDh3dDVrNmxwdnlhYTU1N3dxMGI1YXBibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/unSNH4zXh1m7q9TbOR/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 </p>
 
 ---
 
-### 📌 Who Am I?
+## 🧑‍💻 About Me
 
-🎯 A results-oriented **Data Analyst** passionate about uncovering data patterns, designing impactful dashboards, and transforming business problems into data-driven solutions. With strong technical skills in **SQL, Python, Power BI, Excel, and Tableau**, I help stakeholders make smarter decisions with confidence.
+I'm a passionate and detail-oriented **Data Analyst** with a proven ability to derive actionable insights from data. With a strong foundation in **SQL**, **Python**, **Power BI**, and **Excel**, I transform complex datasets into interactive dashboards, business reports, and visual stories.
 
-🛠️ I specialize in:
+### ✅ Key Competencies:
+- 🔍 Data Cleaning | Data Transformation | Data Wrangling (Python, SQL)
+- 📊 Dashboard Development using Power BI & Excel
+- 🧠 Statistical Analysis | Exploratory Data Analysis (EDA)
+- 📈 Business Intelligence (BI) & Reporting
+- 🤖 Real-World Projects in Marketing, Finance, HR, and Retail Analytics
 
-- 📊 Data Cleaning, Analysis & Visualization
-- 🔍 Exploratory Data Analysis (EDA)
-- 🧠 Predictive Modeling using Machine Learning
-- 📈 Dashboard Design for Business KPIs
-- 📚 Storytelling with Data
-- ⚙️ Automating workflows with Python
-- 💡 Solving real-world case studies using datasets from various domains
+> 💡 *"Driven by data. Powered by insights. Focused on results."*
 
 ---
 
-### 🚀 Skills & Tech Stack
+## 🛠 Tools & Technologies
 
-#### 🔧 Programming & Data
+**Core Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+---
+
+## 📜 Professional Certifications Portfolio
+
+### 🎓 IBM Data Analyst Professional Certificate  
+**Platform:** Coursera | **Date:** Aug 2024  
+**Key Learning Tracks:** Python for Data Science, SQL, Excel, Data Visualization, Dashboards  
+✅ Hands-on labs with real-world datasets & capstone projects  
+🔗 [View Credential](#)
+
+---
+
+### 🧠 Microsoft & LinkedIn – Career Essentials in Data Analysis  
+**Date:** July 2024  
+**Focus:** Fundamentals of Business Intelligence & Data Visualization  
+🔗 [View Credential](#)
+
+---
+
+## 🧪 Virtual Internships – Case-Based Learning (Forage)
+
+These real-world case simulations helped me apply my skills to solve real business problems:
+
+- **Accenture North America** – Data Cleaning, Power BI Visualization  
+- **PwC Switzerland** – Customer Retention Analysis (Power BI)  
+- **Deloitte** – Forensic Data Analysis (Fraud Analytics)  
+- **Tata Group** – Communicating Data with Clarity & Design Thinking  
+
+📂 Repo: [Professional Certifications](https://github.com/vikasgit101/professional-certifications)
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the real-world projects I've worked on — focused on deriving insights, building dashboards, and solving business problems using SQL, Python, Power BI, and Excel.
+
+### 📊 HR Analytics Dashboard – Excel
+
+<p align="center">
+  <img src="./assets/hr_dashboard.png" alt="HR Dashboard" width="700">
 </p>
 
-#### 📊 Business Intelligence & Visualization
+> **Tools:** Excel, Pivot Tables, Charts  
+> **Summary:** HR metrics analysis – headcount, attrition, average age & diversity trends.
 
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+---
+
+### 🏦 Banking Client Insights – Power BI
+
+<p align="center">
+  <img src="./assets/banking_dashboard.png" alt="Banking Client Dashboard" width="700">
 </p>
 
-#### 🧰 Developer Tools
+> **Tools:** Power BI, Excel  
+> **Summary:** Client segmentation, retention pattern analysis, and business relationships.
 
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+---
+
+### 🚴‍♂️ Bike Buyers Dashboard – Excel
+
+<p align="center">
+  <img src="./assets/bike_buyers_dashboard.png" alt="Bike Buyers Dashboard" width="700">
 </p>
 
----
-
-### 💼 Certifications
-
-- 🎓 IBM Data Analyst Professional Certificate  
-- 💻 TCS & Accenture Forage Virtual Internship (Data Analytics)  
-- 🧑‍🎓 B.Tech in Computer Science – Dr. A.P.J. Abdul Kalam Technical University *(2024)*
+> **Tools:** Excel  
+> **Summary:** Customer behavior insights based on demographic segmentation and bike purchase trends.
 
 ---
 
-### 🌟 Highlighted Projects
+### 🛍️ Walmart Diwali Sales – SQL + Python
 
-> 💡 *Explore my repositories to view more use-case-based projects with business context and insights.*
-
-| Project | Domain | Tech Used | Description |
-|--------|--------|-----------|-------------|
-| [HR Analytics Dashboard](https://github.com/vikasgit101/-HR-Analytics-Dashboard-Excel-Based-Insight-Tool) | HR | Excel | Designed an interactive HR dashboard with attrition, age/gender ratio, and workforce trends |
-| [Gold Price Forecasting](https://github.com/vikasgit101/-Time-Series-Forecasting-of-Monthly-Gold-Prices) | Finance | Python, ARIMA | Built a time-series model to predict monthly gold prices |
-| [Banking Client Insights](https://github.com/vikasgit101/-Banking-Client-Insights-Relationship-Analysis) | BFSI | SQL, EDA | Performed segmentation and insights from client relationship data |
-| [Bike Buyers Analysis](https://github.com/vikasgit101/-Bike-Buyers-Analysis-Project-Excel-Dashboard-Pivot-Table) | Retail | Excel | Analyzed buying patterns and demographics for marketing strategies |
-| [Walmart Sales Analysis](https://github.com/vikasgit101/-Walmart-Sales-Data-Analysis-SQL-Python) | Sales | SQL, Python | Broke down sales trends, region-wise performance using SQL and Python |
-| [Diwali Sales Campaign Analysis](https://github.com/vikasgit101/-Diwali-Sales-Data-Analysis-) | Ecommerce | EDA | Identified high-value customers from seasonal campaign data |
-| [Loan Approval Prediction](https://github.com/vikasgit101/Banl_Loan_Prediction) | Banking | ML | Built a classification model to automate loan eligibility prediction |
-| [Coffee Shop Dashboard](https://github.com/vikasgit101/Coffee-Shop-Sales-Analysis-Dashboard) | Retail | Excel | Tracked metrics like daily sales, store-wise performance |
-| [Hospitality Insights](https://github.com/vikasgit101/-Hospitality-Insights-Dashboard) | Travel | Power BI | Visualized customer behavior and booking trends |
-
----
-
-### 🔗 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/vikas-ku" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vk328696@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="./assets/diwali_sales_dashboard.png" alt="Walmart Diwali Sales" width="700">
 </p>
 
----
-
-### 🔖 Hashtags & Keywords for Recruiters
-
-`#DataAnalyst` `#SQL` `#PowerBI` `#Python` `#Excel` `#DashboardDevelopment` `#BusinessIntelligence`  
-`#ExploratoryDataAnalysis` `#DataVisualization` `#DataScience` `#MachineLearning` `#DataCleaning`  
-`#StorytellingWithData` `#ARIMA` `#TimeSeriesForecasting` `#ProjectPortfolio` `#OpenToWork`
+> **Tools:** SQL, Python (Pandas, Matplotlib)  
+> **Summary:** Campaign performance insights from regional festive sales data.
 
 ---
 
-> ✨ *Thanks for stopping by! I'm always open to collaborations, freelance gigs, or full-time roles in data analytics. Feel free to reach out!*
+### 💳 Loan Approval Prediction – Machine Learning
+
+<p align="center">
+  <img src="./assets/loan_approval_prediction.png" alt="Loan Prediction ML" width="700">
+</p>
+
+> **Tools:** Python, Pandas, Scikit-learn  
+> **Summary:** ML classification model predicting loan approval based on applicant features.
+
+---
+
+### 🏨 Hospitality Insights Dashboard – Power BI
+
+<p align="center">
+  <img src="./assets/hospitality_dashboard.png" alt="Hospitality Dashboard" width="700">
+</p>
+
+> **Tools:** Power BI  
+> **Summary:** Analyzes guest satisfaction, booking behavior & service feedback in the hospitality sector.
+
+---
+
+🔗 View all my projects in the [Repositories Tab »](https://github.com/vikasgit101?tab=repositories)
+
+---
+
+## 💼 Why This Portfolio Matters
+
+- ✅ Demonstrates practical expertise in data manipulation and visualization  
+- ✅ Validates continuous learning through global certifications  
+- ✅ Reflects real-world problem solving via internship simulations  
+- ✅ Tailored for entry-level to junior-level data analyst roles
+
+---
+
+## 📫 Let’s Connect
+
+📧 Email: [vk328696@gmail.com](mailto:vk328696@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/vikasku](https://linkedin.com/in/vikasku)
+
+---
+
+## 📣 Relevant Keywords
+
+**Keywords (SEO Optimized):**  
+`Data Analyst Portfolio`, `SQL Data Analysis`, `Power BI Dashboards`, `Python for Data Science`, `Excel Reports`, `EDA Projects`, `Business Intelligence`, `Data Visualization`, `Capstone Projects`, `Internship Case Studies`, `Job-Ready Data Analyst`, `Real-world Data Projects`, `Certification in Analytics`, `Data Storytelling`, `Junior Data Analyst Resume`
+
+---
+
+## 🔖 Hashtags (For LinkedIn & GitHub Discovery)
+
+`#DataAnalytics` `#SQL` `#Python` `#PowerBI`  
+`#BusinessIntelligence` `#DataVisualization` `#IBMDataAnalyst`  
+`#MicrosoftCertified` `#ForageInternships` `#CareerEssentials`  
+`#DataPortfolio` `#RealWorldProjects` `#JobReadySkills`  
+`#GitHubPortfolio` `#DataStorytelling` `#AnalyticsCareer`
+
+---
+
+> _“Certification proves commitment. Projects prove application. I’m proud to have both!”_
+
 
