@@ -84,7 +84,7 @@ Here are some of the real-world projects I've worked on — focused on deriving 
 ### 🏦 Banking Client Insights – Power BI
 
 <p align="center">
-  <img src="./assets/banking_dashboard.png" alt="Banking Client Dashboard" width="700">
+  <img src="./Gemini_Generated_Image_71zz6j71zz6j71zz.jpeg" alt="Banking Client Dashboard" width="700">
 </p>
 
 > **Tools:** Power BI, Excel  
@@ -95,7 +95,7 @@ Here are some of the real-world projects I've worked on — focused on deriving 
 ### 🚴‍♂️ Bike Buyers Dashboard – Excel
 
 <p align="center">
-  <img src="./assets/bike_buyers_dashboard.png" alt="Bike Buyers Dashboard" width="700">
+  <img src="./Gemini_Generated_Image_cuc8xfcuc8xfcuc8.jpeg" alt="Bike Buyers Dashboard" width="700">
 </p>
 
 > **Tools:** Excel  
@@ -106,7 +106,7 @@ Here are some of the real-world projects I've worked on — focused on deriving 
 ### 🛍️ Walmart Diwali Sales – SQL + Python
 
 <p align="center">
-  <img src="./assets/diwali_sales_dashboard.png" alt="Walmart Diwali Sales" width="700">
+  <img src="./Gemini_Generated_Image_f84wrsf84wrsf84w.jpeg" alt="Walmart Diwali Sales" width="700">
 </p>
 
 > **Tools:** SQL, Python (Pandas, Matplotlib)  
