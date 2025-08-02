@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data Analyst | SQL & Power BI Enthusiast | Passionate About Turning Raw Data into Business Insights</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+  <img src="https://lottiefiles.com/free-animation/data-analytics-JPXA6OPHt7" width="200"/>
 </p>
 
 ---
