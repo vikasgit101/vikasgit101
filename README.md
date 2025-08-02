@@ -73,7 +73,7 @@ Here are some of the real-world projects I've worked on — focused on deriving 
 ### 📊 HR Analytics Dashboard – Excel
 
 <p align="center">
-  <img src="C:\Users\Vikas Kumar\OneDrive\Desktop\Gemini_Generated_Image_v8do4kv8do4kv8do.jpeg" alt="HR Dashboard" width="700">
+  <img src="./Gemini_Generated_Image_v8do4kv8do4kv8do.jpeg" alt="HR Dashboard" width="700">
 </p>
 
 > **Tools:** Excel, Pivot Tables, Charts  
