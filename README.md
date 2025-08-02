@@ -117,7 +117,7 @@ Here are some of the real-world projects I've worked on — focused on deriving 
 ### 💳 Loan Approval Prediction – Machine Learning
 
 <p align="center">
-  <img src="./Gemini_Generated_Image_3m6x6k3m6x6k3m6x.png" alt="Loan Prediction ML" width="700">
+  <img src="./Gemini_Generated_Image_3m6x6k3m6x6k3m6x.jpeg" alt="Loan Prediction ML" width="700">
 </p>
 
 > **Tools:** Python, Pandas, Scikit-learn  
