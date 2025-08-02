@@ -128,7 +128,7 @@ Here are some of the real-world projects I've worked on — focused on deriving 
 ### 🏨 Hospitality Insights Dashboard – Power BI
 
 <p align="center">
-  <img src="./assets/hospitality_dashboard.png" alt="Hospitality Dashboard" width="700">
+  <img src="Gemini_Generated_Image_pdzhexpdzhexpdzh.jpeg" alt="Hospitality Dashboard" width="700">
 </p>
 
 > **Tools:** Power BI  
