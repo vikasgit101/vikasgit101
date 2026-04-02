@@ -4,19 +4,16 @@
 
 <div align="center">
 
-<!-- ═══════════════════════════ HERO BANNER ════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0&height=200&text=VIKAS%20KUMAR&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Data%20Analyst%20%20%7C%20%20BI%20Developer%20%20%7C%20%20Data%20Science%20Practitioner&descAlignY=70&descSize=16&fontAlign=50&stroke=00BFFF&strokeWidth=1.5" />
 
 <br/><br/>
 
-<!-- ═══════════════════════════ TYPING SVG ════════════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1100&color=00BFFF&center=true&vCenter=true&width=720&lines=%E2%96%B6+Engineering+Data+Pipelines+that+Power+Business+Decisions;%E2%96%B6+SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Machine+Learning+%C2%B7+DAX;%E2%96%B6+100K%2B+Records+Processed+%7C+85%25%2B+ML+Accuracy+Achieved;%E2%96%B6+Turning+Raw+Data+into+Revenue-Driving+Intelligence;%E2%96%B6+Open+to+Data+Analyst+%2F+Jr.+Data+Scientist+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1100&color=00BFFF&center=true&vCenter=true&width=720&lines=%E2%96%B6+Engineering+Data+Pipelines+that+Power+Business+Decisions;%E2%96%B6+Excel+%E2%86%92+Python+%E2%86%92+SQL+%E2%86%92+Power+BI+%E2%86%92+Impact;%E2%96%B6+End-to-End%3A+Raw+Data+to+Board-Ready+Dashboards;%E2%96%B6+Turning+Messy+Data+into+Revenue-Driving+Intelligence;%E2%96%B6+Open+to+Data+Analyst+%2F+Jr.+Data+Scientist+Roles" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- ═══════════════════════════ SOCIAL BADGES ════════════════════════ -->
 <a href="https://linkedin.com/in/vikasku">
   <img src="https://img.shields.io/badge/LinkedIn-vikasku-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -56,20 +53,16 @@ class DataAnalyst:
     location    = "India 🇮🇳"
     domains     = ["Banking", "Finance", "HR", "Retail", "Hospitality"]
 
+    pipeline    = "Excel → Python (Jupyter) → SQL (MySQL) → Power BI → Impact"
+
     tech_stack  = {
         "languages"  : ["Python 🐍",  "SQL 🗄️"],
         "bi_tools"   : ["Power BI 📊", "Tableau 📈", "Excel ⚡", "DAX"],
         "libraries"  : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"],
         "databases"  : ["Microsoft SQL Server", "MySQL", "PostgreSQL"],
-        "workflow"   : ["ETL Pipelines", "EDA", "Feature Engineering",
-                        "Classification ML", "Data Modeling", "BI Reporting"],
+        "workflow"   : ["Excel EDA", "ETL Pipelines", "EDA in Jupyter",
+                        "SQL Analytics", "Power BI Dashboards", "ML Modeling"],
     }
-
-    now_learning = [
-        "Advanced ML — ensemble methods, model stacking",
-        "Data Engineering fundamentals — dbt, Airflow, BigQuery",
-        "Statistical inference & A/B testing frameworks",
-    ]
 
     open_to      = "Data Analyst · BI Developer · Jr. Data Scientist roles 🎯"
 
@@ -114,6 +107,7 @@ class DataAnalyst:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
 
@@ -123,17 +117,19 @@ class DataAnalyst:
 
 ## ◈ &nbsp;Featured Projects
 
-> Three production-grade analytical projects — pipelines built, models deployed, dashboards shipped, business impact measured.
+> Three production-grade analytical projects — each built end-to-end: **Excel → Python → SQL → Power BI**. Raw data in. Board-ready insights out.
 
 <br/>
 
+---
+
 <!--------------------------------------------------------------------------->
-<!--  PROJECT 1                                                             -->
+<!--  PROJECT 1  —  BANKING                                                -->
 <!--------------------------------------------------------------------------->
 
-<img src="https://img.shields.io/badge/PROJECT_01-BANKING_CLIENT_ANALYTICS-00BFFF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PROJECT_01-END--TO--END_BANKING_CLIENT_ANALYTICS-00BFFF?style=for-the-badge&labelColor=0d1117"/>
 
-**Stack →** `Python` &nbsp;`SQL` &nbsp;`Microsoft SQL Server` &nbsp;`Power BI` &nbsp;`Pandas` &nbsp;`Scikit-learn` &nbsp;`DAX`
+**Stack →** `Excel` &nbsp;`Python` &nbsp;`Pandas` &nbsp;`Jupyter Notebook` &nbsp;`MySQL` &nbsp;`Power BI` &nbsp;`DAX`
 
 <details open>
 <summary><b>▶ &nbsp;View Full Case Study</b></summary>
@@ -142,29 +138,131 @@ class DataAnalyst:
 
 **Problem Statement**
 
-> A banking institution needed a unified analytical layer over fragmented transaction data to understand customer behaviour, automate reporting, and enable precision retention strategies across multiple client tiers.
+> A banking institution needed to transform fragmented client transaction data into a unified analytical system — capable of tracking loan exposure, deposit behaviour, customer segmentation, and engagement health across multiple client cohorts in real time.
 
 ---
 
-**Pipeline & Delivery**
+**🔬 Phase 1 — Excel: Data Audit & Initial Understanding**
 
-- **Architected an end-to-end data analytics pipeline** processing **100,000+ banking transactions** using SQL and Python — uncovering behavioural segments and revenue drivers across **5+ customer cohorts** while optimising ETL workflows to reduce manual processing effort by **35%** and enhance data quality for predictive modelling.
+The raw dataset was first loaded into **Microsoft Excel** for a structural audit before any processing began:
 
-- **Engineered and published Power BI dashboards** featuring **10+ DAX-driven KPIs**, enabling real-time business performance monitoring, replacing legacy manual reporting systems, and reducing analyst review time by **40%**.
-
-- **Developed advanced customer segmentation models** using Random Forest and Logistic Regression — improving targeted retention strategy precision by **25%** and accelerating churn risk identification across client segments.
+- Inspected the `Banking_Clients` table schema — identified key columns including `Client ID`, `Name`, `Gender`, `Nationality`, `Occupation`, `Joined Bank`, `Income Band`, `Bank Loans`, `Business Lending`, `Credit Card Balance`, `Bank Deposits`, `Saving Accounts`, `Checking Accounts`, `Foreign Currency Account`, `Processing Fees`, and `BRId` (Banking Relationship ID)
+- Mapped relationships between the `Banking_Clients`, `Gender`, and `Investment Advisor` dimension tables
+- Flagged inconsistent data types, blank cells, duplicate records, and formatting issues across financial columns prior to Python ingestion
+- Created an initial data dictionary to document column meanings, expected data types, and business logic assumptions
 
 ---
 
-**Impact**
+**🐍 Phase 2 — Python (Jupyter Notebook): Cleaning, EDA & Feature Engineering**
+
+Loaded the audited dataset into **Jupyter Notebook** using Pandas for systematic data preparation:
+
+- **Missing value treatment:** Identified and handled null values across `Bank Loans`, `Business Lending`, `Credit Card Balance`, `Foreign Currency Account`, and `Processing Fees` columns — applied median imputation for numerical fields and mode-fill for categorical fields like `Occupation` and `Nationality`
+- **Data type enforcement:** Converted `Joined Bank` to datetime, cast all financial columns (`Bank Loans`, `Bank Deposits`, `Saving Accounts`, `Checking Accounts`) to float64 for calculation accuracy
+- **Duplicate removal:** Detected and dropped duplicate `Client ID` records to ensure uniqueness per client row
+- **Outlier detection:** Used IQR-based flagging on loan and deposit columns to identify extreme values — retained and documented rather than dropped, as high-value clients are analytically meaningful
+- **Income Band engineering:** Validated and standardised `income band` categories to ensure consistent groupings for segmentation analysis
+- **EDA executed:**
+  - Distribution plots for `Bank Loans`, `Bank Deposits`, `Business Lending` across `income band` and `Nationality`
+  - Correlation heatmap across all financial columns to identify multicollinearity and revenue drivers
+  - Occupation-wise aggregation to spot high-loan and high-deposit customer segments
+  - Gender and Banking Relationship (`BRId`) breakdowns using grouped bar charts
+  - Engagement length calculation from `Joined Bank` field to analyse client tenure patterns
+
+---
+
+**🗄️ Phase 3 — MySQL: Business Question Answering via SQL**
+
+Loaded the cleaned dataset into **MySQL** and wrote structured queries to extract business-critical answers:
+
+```sql
+-- Total loan exposure by Banking Relationship
+SELECT BRId, SUM(Bank_Loans) AS Total_Bank_Loans,
+       SUM(Business_Lending) AS Total_Business_Lending
+FROM Banking_Clients
+GROUP BY BRId ORDER BY Total_Bank_Loans DESC;
+
+-- Client segmentation by income band — avg loan and deposit behaviour
+SELECT income_band,
+       COUNT(Client_ID) AS Total_Clients,
+       AVG(Bank_Loans) AS Avg_Loan,
+       AVG(Bank_Deposits) AS Avg_Deposit
+FROM Banking_Clients
+GROUP BY income_band;
+
+-- Top nationalities by total deposit volume
+SELECT Nationality, SUM(Bank_Deposits) AS Total_Deposits
+FROM Banking_Clients
+GROUP BY Nationality ORDER BY Total_Deposits DESC LIMIT 10;
+
+-- Occupation-level loan risk analysis
+SELECT Occupation,
+       COUNT(*) AS Client_Count,
+       SUM(Bank_Loans) AS Total_Loans,
+       SUM(Credit_Card_Balance) AS Total_CC_Exposure
+FROM Banking_Clients
+GROUP BY Occupation ORDER BY Total_Loans DESC;
+
+-- Client engagement length vs total portfolio value
+SELECT Client_ID,
+       DATEDIFF(CURDATE(), Joined_Bank) / 365 AS Tenure_Years,
+       (Bank_Loans + Business_Lending + Credit_Card_Balance) AS Total_Exposure
+FROM Banking_Clients ORDER BY Tenure_Years DESC;
+```
+
+---
+
+**📊 Phase 4 — Power BI: 4-Page Interactive Dashboard**
+
+Built a fully navigable **4-page Power BI report** on the `Banking_Clients` table with cross-page slicers and DAX-driven KPI cards:
+
+**Page 1 — Home (Navigation Hub)**
+- Top-level KPI cards: `Total Clients` · `Total Loan` · `Total Deposit` · `Checking Accounts` · `Saving Accounts` · `Business Lending`
+- Global slicers: `Gender`, `Joined Bank (Year)`
+- Navigation buttons to all 3 analytical pages
+
+**Page 2 — Loan Analysis**
+- KPI cards: `Total Loan` · `Bank Loan` · `Business Lending` · `CC Balance`
+- `Bank Loan by Income Band` — donut chart segmenting loan distribution across income tiers
+- `Bank Loan by BR` — clustered column chart by Banking Relationship ID
+- `Bank Loan by Nationality` — clustered column chart revealing cross-border loan concentration
+- `Bank Loan by Occupation` — clustered column chart for occupation-level risk exposure
+- Slicers: `Banking Relationship (BRId)` · `Gender` · `Institution Advisor (IAId)`
+
+**Page 3 — Deposit Analysis**
+- KPI cards: `Total Deposit` · `Bank Deposit` · `Saving Account Amt` · `Checking Account Amt`
+- `Bank Deposit by Income Band` — donut chart showing deposit distribution by income group
+- `Bank Deposit by BR` — clustered column chart by Banking Relationship
+- `Bank Deposit by Nationality` — clustered column chart for geographic deposit patterns
+- `Bank Deposit by Occupation` — clustered column chart for occupation-level deposit profiling
+- Slicers: `Banking Relationship (BRId)` · `Gender` · `Institution Advisor (IAId)` · `Joined Bank`
+
+**Page 4 — Summary (Executive View)**
+- Complete KPI grid: `Total Clients` · `Total Loan` · `Bank Loans` · `Business Lending` · `Total Deposit` · `Processing Fees` · `Bank Deposits` · `Checking Accounts` · `Amount of Credit Cards` · `Saving Accounts` · `Foreign Currency Account` · `Engagement Length`
+- Single-page executive snapshot usable for C-suite reporting with full slicer interactivity
+
+**DAX Measures created:**
+```dax
+Total loan        = SUM(Banking_Clients[Bank Loans]) + SUM(Banking_Clients[Business Lending])
+Total Deposit     = SUM(Banking_Clients[Bank Deposits]) + SUM(Banking_Clients[Saving Accounts])
+                    + SUM(Banking_Clients[Checking Accounts])
+Engagment Length  = DATEDIFF(MIN(Banking_Clients[Joined Bank]), TODAY(), YEAR)
+```
+
+---
+
+**📈 Impact Delivered**
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│  ✅  ETL Efficiency Gain          →   35% reduction in manual effort
-│  ✅  Analyst Review Time          →   40% faster with live BI dashboards
-│  ✅  Retention Strategy Precision →   25% improvement via ML segmentation
-│  ✅  Coverage                     →   3 customer tiers, 5+ cohorts mapped
-└──────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║  ✅  ETL Efficiency         →  35% reduction in manual data effort   ║
+║  ✅  Reporting Speed        →  40% faster analyst review via BI      ║
+║  ✅  Segmentation Precision →  25% improvement in retention targeting║
+║  ✅  KPI Coverage           →  12 financial KPIs tracked live        ║
+║  ✅  Analytical Depth       →  4 dimensions: Income · BR · Nation ·  ║
+║                                Occupation across Loans & Deposits    ║
+║  ✅  Executive Delivery     →  Single Summary page for C-suite use   ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 > *Delivered a production-ready analytics solution enabling data-driven customer segmentation, directly supporting retention strategies projected to improve revenue retention across 3 customer tiers.*
@@ -176,7 +274,7 @@ class DataAnalyst:
 ---
 
 <!--------------------------------------------------------------------------->
-<!--  PROJECT 2                                                             -->
+<!--  PROJECT 2  —  LOAN ML                                               -->
 <!--------------------------------------------------------------------------->
 
 <img src="https://img.shields.io/badge/PROJECT_02-LOAN_APPROVAL_PREDICTION_SYSTEM-00BFFF?style=for-the-badge&labelColor=0d1117"/>
@@ -190,43 +288,60 @@ class DataAnalyst:
 
 **Problem Statement**
 
-> Manual loan screening is slow, inconsistent, and prone to costly errors — both false approvals (financial exposure) and false rejections (lost customers). An automated, ML-powered risk assessment system was needed to standardise and accelerate decisions.
+> Manual loan screening is slow, inconsistent, and prone to costly errors — both false approvals (financial exposure) and false rejections (lost revenue). An automated ML-powered risk assessment system was needed to standardise and accelerate decisions at scale.
 
 ---
 
-**Pipeline & Delivery**
-
-- **Trained and benchmarked classification models** (Logistic Regression, Decision Tree, Random Forest) on **50,000+ loan applications** — achieving **85%+ prediction accuracy** and **AUC-ROC of 0.91** — while engineering **15+ financial and demographic features** through correlation analysis to boost recall for high-risk rejection cases by **18%** and reduce false negatives.
-
-- **Optimised model performance** using GridSearchCV and classification threshold tuning — reducing false loan approvals by **22%** and strengthening model reliability for production-ready deployment.
-
-- **Communicated model insights** through data visualisation reports using Matplotlib and Seaborn — translating complex ML outputs into actionable lending insights for non-technical stakeholders.
+**🔬 Phase 1 — Excel: Data Audit**
+- Loaded raw loan application data into Excel to understand field structure: `Gender`, `Married`, `Dependents`, `Education`, `Self_Employed`, `ApplicantIncome`, `CoapplicantIncome`, `LoanAmount`, `Loan_Amount_Term`, `Credit_History`, `Property_Area`, `Loan_Status`
+- Identified missing value patterns across `LoanAmount`, `Credit_History`, `Dependents` — documented before Python ingestion
 
 ---
 
-**Model Benchmarking**
-
-| Model | Accuracy | AUC-ROC | False Approvals | Verdict |
-|:---|:---:|:---:|:---:|:---:|
-| Logistic Regression | 80.5% | 0.83 | Baseline | ✅ Interpretable |
-| Decision Tree | 78.2% | 0.79 | Higher | ⚠️ Overfits |
-| **Random Forest** | **85.3%** | **0.91** | **−22%** | **🏆 Best Model** |
-| Majority Baseline | 68.7% | — | — | ❌ Naive |
+**🐍 Phase 2 — Python (Jupyter Notebook): Cleaning, EDA & Feature Engineering**
+- **Missing value handling:** Median imputation for `LoanAmount` and `Loan_Amount_Term`; mode-fill for `Gender`, `Married`, `Dependents`, `Self_Employed`, `Credit_History`
+- **Outlier detection:** IQR method on `ApplicantIncome` and `LoanAmount` — capped extreme values affecting model stability
+- **Feature engineering (15+ features):**
+  - `Income_to_Loan_Ratio` = `ApplicantIncome / LoanAmount`
+  - `Total_Income` = `ApplicantIncome + CoapplicantIncome`
+  - `Credit_History_Flag` = binary encode of `Credit_History`
+  - `Dependents_Adjusted_Income` = `Total_Income / (Dependents + 1)`
+  - Log-transformation of `LoanAmount` and `Total_Income` to reduce skewness
+- **EDA:** Loan approval rate by `Property_Area`, `Education`, `Credit_History`; income distribution across approved vs rejected; correlation heatmap of all numerical features
 
 ---
 
-**Impact**
+**🤖 Phase 3 — ML Modelling**
+- Trained `Logistic Regression`, `Decision Tree`, `Random Forest` with K-Fold cross-validation
+- Tuned via `GridSearchCV` — optimised `max_depth`, `n_estimators`, `min_samples_split` for Random Forest
+- Applied **classification threshold tuning** to reduce false approvals by **22%**
+- Communicated results via Matplotlib/Seaborn: ROC curves, confusion matrices, feature importance plots
+
+---
+
+**Model Comparison**
+
+| Model | Accuracy | AUC-ROC | Verdict |
+|:---|:---:|:---:|:---:|
+| Logistic Regression | 80.5% | 0.83 | ✅ Interpretable |
+| Decision Tree | 78.2% | 0.79 | ⚠️ Overfits |
+| **Random Forest** | **85.3%** | **0.91** | **🏆 Best Model** |
+| Majority Baseline | 68.7% | — | ❌ Naive |
+
+---
+
+**📈 Impact Delivered**
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│  ✅  Prediction Accuracy          →   85%+ on 50,000+ applications
-│  ✅  AUC-ROC Score                →   0.91 (production-grade threshold)
-│  ✅  False Loan Approvals         →   Reduced by 22% post-tuning
-│  ✅  High-Risk Recall Boost       →   +18% via feature engineering
-└──────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║  ✅  Prediction Accuracy    →  85%+ on 50,000+ applications          ║
+║  ✅  AUC-ROC Score          →  0.91 (production-grade threshold)     ║
+║  ✅  False Approvals        →  Reduced by 22% post-threshold tuning  ║
+║  ✅  High-Risk Recall       →  +18% boost via feature engineering    ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-> *Delivered a machine learning-powered risk assessment system reducing loan approval errors by 22%, enabling more reliable AI-driven lending decisions and lowering financial exposure for high-risk applicants.*
+> *Delivered a machine learning-powered risk assessment system reducing loan approval errors by 22%, enabling more reliable AI-driven lending decisions.*
 
 </details>
 
@@ -235,12 +350,12 @@ class DataAnalyst:
 ---
 
 <!--------------------------------------------------------------------------->
-<!--  PROJECT 3                                                             -->
+<!--  PROJECT 3  —  HOSPITALITY                                           -->
 <!--------------------------------------------------------------------------->
 
 <img src="https://img.shields.io/badge/PROJECT_03-HOSPITALITY_PERFORMANCE_ANALYTICS-00BFFF?style=for-the-badge&labelColor=0d1117"/>
 
-**Stack →** `Power BI` &nbsp;`DAX` &nbsp;`Power Query` &nbsp;`Excel`
+**Stack →** `Excel` &nbsp;`Power BI` &nbsp;`DAX` &nbsp;`Power Query`
 
 <details open>
 <summary><b>▶ &nbsp;View Full Case Study</b></summary>
@@ -249,29 +364,41 @@ class DataAnalyst:
 
 **Problem Statement**
 
-> Hospitality leadership was operating on fragmented, delayed reports — unable to track occupancy trends, cancellation patterns, or revenue drivers in real time. Decisions on pricing and workforce planning were reactive rather than data-led.
+> Hospitality leadership was operating on fragmented, delayed spreadsheet reports — unable to track occupancy trends, cancellation patterns, or revenue drivers in real time, making pricing and workforce planning entirely reactive.
 
 ---
 
-**Pipeline & Delivery**
-
-- **Analysed 50,000+ hospitality records across 12+ months** using Excel and Power BI — extracting occupancy trends, revenue metrics, and booking behaviour patterns while uncovering seasonal demand spikes and cancellation trends through time-series analysis to inform **dynamic pricing and workforce planning decisions**.
-
-- **Architected a centralised Power BI dashboard** leveraging DAX measures and Power Query transformations — reducing reporting turnaround by **45%** and providing leadership with **real-time visibility into KPIs** across business units.
-
-- **Designed an interactive executive dashboard** with drill-through capabilities and optimised data models — enabling real-time operational performance monitoring and reducing ad-hoc reporting requests by **30%**.
+**🔬 Phase 1 — Excel: Data Audit & Initial Cleaning**
+- Audited 50,000+ hospitality records spanning 12+ months of booking data
+- Identified and flagged: blank booking dates, inconsistent room-type labels, missing revenue values, and duplicate booking IDs
+- Standardised date formats, corrected text inconsistencies in property and room category columns, validated revenue figures against booking count benchmarks
 
 ---
 
-**Impact**
+**📊 Phase 2 — Power BI: Multi-Page Dashboard via Power Query + DAX**
+
+- **Power Query transformations:** Applied data type enforcement, null handling, column renaming, and conditional column logic to create a clean, model-ready dataset — replacing manual pre-processing steps
+- Built a **centralised Power BI dashboard** with drill-through capabilities across 3+ property locations
+- **DAX measures developed:**
+  - Occupancy Rate % = `DIVIDE(Occupied Rooms, Total Available Rooms)`
+  - Avg Revenue Per Booking = `DIVIDE([Total Revenue], [Booking Count])`
+  - Cancellation Rate % = `DIVIDE([Cancelled Bookings], [Total Bookings])`
+  - MoM Revenue Growth = `DIVIDE([This Month Revenue] - [Last Month Revenue], [Last Month Revenue])`
+- **Time series analysis:** Identified seasonal demand spikes and cancellation clusters using month-over-month trend lines, informing dynamic pricing windows
+- **Interactive executive dashboard** with slicers for Property, Room Type, Booking Channel, and Date Range — enabling real-time operational performance monitoring
+- Reduced ad-hoc reporting requests by **30%** by surfacing self-serve KPIs for non-technical hotel managers
+
+---
+
+**📈 Impact Delivered**
 
 ```
-┌──────────────────────────────────────────────────────────────────┐
-│  ✅  Reporting Turnaround         →   45% faster via automated BI
-│  ✅  Ad-hoc Reporting Requests    →   Reduced by 30%
-│  ✅  Data Coverage                →   50,000+ records, 12+ months
-│  ✅  Operational Scope            →   3+ properties, full KPI visibility
-└──────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║  ✅  Reporting Turnaround   →  45% faster via automated BI pipeline  ║
+║  ✅  Ad-hoc Requests        →  Reduced by 30% via self-serve KPIs    ║
+║  ✅  Data Coverage          →  50,000+ records across 12+ months     ║
+║  ✅  Operational Scope      →  3+ properties, full KPI visibility    ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 > *Delivered a scalable BI solution surfacing demand patterns and revenue inefficiencies, enabling data-driven pricing and operational decisions projected to improve occupancy-rate optimisation across 3+ properties.*
@@ -321,10 +448,10 @@ class DataAnalyst:
 
 ```mermaid
 graph LR
-    A[📥 Raw Data] --> B[🧹 ETL & Cleaning]
-    B --> C[🔍 EDA & Statistics]
-    C --> D[📊 Visualisation]
-    D --> E[📈 BI Dashboards]
+    A[📥 Raw Data] --> B[🧹 Excel Audit]
+    B --> C[🐍 Python EDA]
+    C --> D[🗄️ SQL Analytics]
+    D --> E[📊 Power BI Dashboard]
     E --> F[🤖 ML Modelling]
     F --> G[📢 Stakeholder Delivery]
     G --> H[💼 Business Impact]
@@ -341,10 +468,11 @@ graph LR
 
 | Phase | Status | Tooling |
 |:---|:---:|:---|
-| Data Collection & ETL | ✅ **Mastered** | SQL, MS SQL Server, Power Query |
-| Data Cleaning & Wrangling | ✅ **Mastered** | Python (Pandas), SQL |
-| Exploratory Data Analysis | ✅ **Mastered** | Python, Statistics |
-| BI Dashboard Development | ✅ **Mastered** | Power BI, DAX, Tableau |
+| Excel Data Audit & Structuring | ✅ **Mastered** | Excel, Power Query |
+| Data Cleaning & ETL | ✅ **Mastered** | Python (Pandas), SQL |
+| Exploratory Data Analysis | ✅ **Mastered** | Jupyter, Matplotlib, Seaborn |
+| SQL Business Analytics | ✅ **Mastered** | MySQL, PostgreSQL |
+| BI Dashboard Development | ✅ **Mastered** | Power BI, DAX |
 | Business Reporting & Storytelling | ✅ **Mastered** | Excel, Power BI |
 | Machine Learning & Modelling | 🔄 **In Progress** | Scikit-learn, Feature Engineering |
 | Statistical Modelling | 🔄 **In Progress** | Regression, Hypothesis Testing |
@@ -422,23 +550,23 @@ Microsoft × LinkedIn &nbsp;·&nbsp; July 2024
 ```
  ╔══════════════════════════════════════════════════════════════════════╗
  ║                                                                      ║
- ║  ⚡  PIPELINE THINKING                                               ║
- ║      I don't just analyse data — I build the system around it       ║
- ║      Raw ingestion → ETL → modelling → delivery → impact            ║
+ ║  ⚡  FULL-PIPELINE THINKING                                          ║
+ ║      Excel audit → Python clean → SQL query → Power BI deliver      ║
+ ║      I own every step, not just one tool                            ║
  ║                                                                      ║
  ║  📊  DASHBOARD OWNERSHIP                                             ║
  ║      Power BI reports execs actually use — DAX, drill-through,      ║
- ║      KPI cards, real-time monitoring, no fluff                      ║
+ ║      KPI cards, real-time slicers, no fluff                         ║
  ║                                                                      ║
  ║  🤖  ML IN PRACTICE                                                  ║
  ║      Feature engineering, model benchmarking, threshold tuning,     ║
- ║      results translated for non-technical decision-makers           ║
+ ║      results translated for non-technical stakeholders              ║
  ║                                                                      ║
- ║  🔍  DATA QUALITY OBSESSION                                          ║
- ║      ETL pipelines built to reduce manual effort, not add to it.    ║
+ ║  🔍  DATA QUALITY FIRST                                              ║
+ ║      Every project starts with Excel audit + Python cleaning.       ║
  ║      Garbage in = garbage insights. That's not acceptable.          ║
  ║                                                                      ║
- ║  📢  STAKEHOLDER COMMUNICATION                                       ║
+ ║  📢  CLEAR COMMUNICATION                                             ║
  ║      Complex outputs → clear narratives → confident decisions       ║
  ║                                                                      ║
  ╚══════════════════════════════════════════════════════════════════════╝
@@ -479,8 +607,6 @@ Microsoft × LinkedIn &nbsp;·&nbsp; July 2024
 
 ---
 
-<!-- ═══════════════════════════ FOOTER ════════════════════════════════ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0&height=3&stroke=00BFFF&strokeWidth=2"/>
@@ -504,6 +630,6 @@ Microsoft × LinkedIn &nbsp;·&nbsp; July 2024
 
 <br/>
 
-![Made with](https://img.shields.io/badge/Built_with-SQL_%7C_Python_%7C_Power_BI-00BFFF?style=flat-square&labelColor=0d1117)
+![Made with](https://img.shields.io/badge/Built_with-Excel_%7C_Python_%7C_SQL_%7C_Power_BI-00BFFF?style=flat-square&labelColor=0d1117)
 
 </div>
